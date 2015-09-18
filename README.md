@@ -4,7 +4,19 @@ Homework 2
 
 Nuha Albadi
 
-1. git init
+1. git init (master)
+
+2. git add README.md (master)
+
+3. git commit -m "commit 0" (master)
+
+4. git add README.md (master)
+
+5. git commit -m "commit 1" (master)
+
+6. 4. git add README.md (master)
+
+5. git commit -m "commit 2" (master)
 
 6. git log (master)
 
@@ -19,3 +31,10 @@ Nuha Albadi
 11. git add README.md (bug-fix)
 
 12. git commit -m "commit 4" (bug-fix)
+
+13. git merge master (bug-fix) //merge conflict 
+
+14. git add README.md (bug-fix)
+
+15. git commit -m "commit 5" (bug-fix)// resolved conflict 
+
