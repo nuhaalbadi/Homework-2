@@ -41,3 +41,29 @@ Nuha Albadi
 16. git add README.md (bug-fix)
 
 17. git commit -m "commit 6" (bug-fix) 
+
+18. git log (bug-fix)
+
+19. git checkout 2bc94de13877e1c4a05a00302db442ca919be2f7 (commit 4 on bug-fix)
+
+20. git checkout -b bug-fix-experimental (bug-fix)
+
+21. git add README.md (bug-fix-experimental)
+
+22. git commit –m “commit 7” (bug-fix-experimental)
+
+23. git add README.md (bug-fix-experimental)
+
+24. git commit –m “commit 8” (bug-fix-experimental)
+
+25. git add README.md (bug-fix-experimental)
+
+26. git commit –m “commit 9” (bug-fix-experimental)
+
+30. git checkout bug-fix (master)
+
+31. git merge bug-fix-experimental (bug-fix) // merge conflict 
+
+32. git add README.md (bug-fix)
+
+33. git commit -m "commit 11" (bug-fix)
