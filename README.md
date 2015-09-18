@@ -38,3 +38,6 @@ Nuha Albadi
 
 15. git commit -m "commit 5" (bug-fix)// resolved conflict 
 
+16. git add README.md (bug-fix)
+
+17. git commit -m "commit 6" (bug-fix) 
