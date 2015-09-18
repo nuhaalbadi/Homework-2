@@ -18,4 +18,10 @@ Nuha Albadi
 
 5. git commit -m "commit 1" (master)2
 
+27. git checkout master (bug-fix-experimental)
+
+28. git add README.md (master)
+
+29. git commit -m "commit 10" (master)
+
 
