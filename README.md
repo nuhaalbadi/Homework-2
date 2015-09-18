@@ -30,3 +30,6 @@ Nuha Albadi
 
 22. git commit –m “commit 7” (bug-fix-experimental)
 
+23. git add README.md (bug-fix-experimental)
+
+24. git commit –m “commit 8” (bug-fix-experimental)
