@@ -16,3 +16,6 @@ Nuha Albadi
 
 10. git commit -m "commit 3" (bug-fix)
 
+11. git add README.md (bug-fix)
+
+12. git commit -m "commit 4" (bug-fix)
