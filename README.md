@@ -86,3 +86,6 @@ Nuha Albadi
 
 39. git commit –m “commit 13” (master) 
 
+40. git add README.md (master)
+
+41. git commit -m "commit 14" (master)
