@@ -67,3 +67,8 @@ Nuha Albadi
 32. git add README.md (bug-fix)
 
 33. git commit -m "commit 11" (bug-fix)
+
+34. git add README.md (bug-fix)
+
+35. git commit -m "commit 12" (bug-fix)
+
