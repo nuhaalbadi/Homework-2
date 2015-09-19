@@ -16,7 +16,49 @@ Nuha Albadi
 
 6. 4. git add README.md (master)
 
-5. git commit -m "commit 1" (master)2
+5. git commit -m "commit 2" (master)
+
+6. git log (master)
+
+7. git checkout 16c8ff8f49154ef911bcea23c1f65c196ad9973b (commit 0 on master)
+
+8. git checkout -b bug-fix (master)
+
+9. git add README.md (bug-fix)
+
+10. git commit -m "commit 3" (bug-fix)
+
+11. git add README.md (bug-fix)
+
+12. git commit -m "commit 4" (bug-fix)
+
+13. git merge master (bug-fix) //merge conflict 
+
+14. git add README.md (bug-fix)
+
+15. git commit -m "commit 5" (bug-fix)// resolved conflict 
+
+16. git add README.md (bug-fix)
+
+17. git commit -m "commit 6" (bug-fix) 
+
+18. git log (bug-fix)
+
+19. git checkout 2bc94de13877e1c4a05a00302db442ca919be2f7 (commit 4 on bug-fix)
+
+20. git checkout -b bug-fix-experimental (bug-fix)
+
+21. git add README.md (bug-fix-experimental)
+
+22. git commit –m “commit 7” (bug-fix-experimental)
+
+23. git add README.md (bug-fix-experimental)
+
+24. git commit –m “commit 8” (bug-fix-experimental)
+
+25. git add README.md (bug-fix-experimental)
+
+26. git commit –m “commit 9” (bug-fix-experimental)
 
 27. git checkout master (bug-fix-experimental)
 
@@ -24,4 +66,23 @@ Nuha Albadi
 
 29. git commit -m "commit 10" (master)
 
+30. git checkout bug-fix (master)
+
+31. git merge bug-fix-experimental (bug-fix) // merge conflict 
+
+32. git add README.md (bug-fix)
+
+33. git commit -m "commit 11" (bug-fix)
+
+34. git add README.md (bug-fix)
+
+35. git commit -m "commit 12" (bug-fix)
+
+36. git checkout master (bug-fix)
+
+37. git merge bug-fix (master)// merge conflict 
+
+38. git add README.md (master)
+
+39. git commit –m “commit 13” (master) 
 
